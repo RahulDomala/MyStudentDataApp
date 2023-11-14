@@ -1,7 +1,7 @@
 package com.example.mystudentdata
 
-import androidx.test.platform.app.InstrumentationRegistry
-import androidx.test.ext.junit.runners.AndroidJUnit4
+import android.support.test.InstrumentationRegistry
+import android.support.test.runner.AndroidJUnit4
 
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -22,3 +22,4 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.mystudentdata", appContext.packageName)
     }
 }
+
