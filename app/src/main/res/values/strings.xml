@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyStudentData</string>
+    <string name="StudentName">Student Name</string>
+    <string name="ContactNumber">Father Name</string>
+    <string name="FatherName">Phone Number</string>
+    <string name="image_desccription">icon of a student</string>
+    <string name="menu_title">Add new student</string>
+</resources>
